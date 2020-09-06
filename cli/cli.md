@@ -1,0 +1,82 @@
+# Command Line Tools
+
+- [exa](https://github.com/ogham/exa) - Replacement for ls written in rust.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Search text for patterns fast.
+- [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+- [fd](https://github.com/sharkdp/fd) - Simple, fast and user-friendly alternative to 'find'.
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [bat](https://github.com/sharkdp/bat) - Cat clone with wings.
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, APIs, and sites in seconds to AWS.
+- [jq](https://github.com/stedolan/jq) - JSON processor.
+- [git](https://github.com/git/git) - Version control.
+- [curl](https://curl.haxx.se/docs/manpage.html) - Transfer data from or to a server.
+- [youtube-dl](https://github.com/rg3/youtube-dl) - Download videos from YouTube and other video sites.
+- [tmux](https://github.com/tmux/tmux) - Terminal multiplexer.
+- [direnv](https://direnv.net/) - Environment switcher for the shell.
+- [htop](https://github.com/hishamhm/htop) - Interactive text-mode process viewer for Unix systems.
+- [httpie](https://github.com/jakubroztocil/httpie) - HTTP client.
+- [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [trash](https://github.com/sindresorhus/trash) - Move files and folders to the trash.
+- [vtop](https://github.com/MrRio/vtop) - Graphical activity monitor.
+- [gotop](https://github.com/cjbassi/gotop) - Terminal based graphical activity monitor inspired by gtop and vtop.
+- [howdoi](https://github.com/gleitz/howdoi) - Instant coding answers.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
+- [tldr](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+- [imgcat](https://github.com/eddieantonio/imgcat) - Like [cat](http://www.linfo.org/cat.html) but for images.
+- [screenfetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+- [hugo](https://github.com/gohugoio/hugo) - Fast and flexible static site generator.
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change.
+- [modd](https://github.com/cortesi/modd) - Flexible tool for responding to file system changes.
+- [now](https://github.com/zeit/now-cli) - Real time global deployments served over HTTP/2.
+- [yarn](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [hub](https://github.com/github/hub) - GitHub wrapper.
+- [xsv](https://github.com/BurntSushi/xsv) - Fast CSV command line toolkit written in Rust.
+- [pv](https://ivarch.com/programs/pv.shtml) - Pipe Viewer.
+- [m-cli](https://github.com/rgcr/m-cli) - Useful utils for macOS.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+- [mas](https://github.com/mas-cli/mas) - CLI for mac app store.
+- [loc](https://github.com/cgag/loc) - Count lines of code quickly.
+- [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) - Manage Go-based Alfred workflows.
+- [neofetch](https://github.com/dylanaraps/neofetch) - System information tool.
+- [license-up](https://github.com/nikitavoloboev/license-up) - Create a license quickly for your project.
+- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+- [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool.
+- [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [npx](https://github.com/zkat/npx) - Execute npm package binaries.
+- [devd](https://github.com/cortesi/devd) - Local webserver for developers.
+- [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
+- [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
+
+
+## Links
+
+- [Awesome command line tools](https://github.com/learn-anything/command-line-tools)
+- [Ask HN: What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
+- [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
+- [Awesome Console Services](https://github.com/chubin/awesome-console-services)
+- [tldr](https://github.com/tldr-pages/tldr) - Collection of simplified and community-driven man pages.
+- [Awesome jq](https://github.com/fiatjaf/awesome-jq) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
+- [cli.fan blog](https://cli.fan/posts/introduction/) - [Introduction](https://cli.fan/posts/introduction/).
+- [One Things Well blog](https://onethingwell.org/) - Weblog about simple, useful software.
+- [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [Inconsolation](https://inconsolation.wordpress.com/) - Adventures with lightweight and minimalist software for Linux.
+- [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line. ([HN](https://news.ycombinator.com/item?id=24195122))
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
+- [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/) ([Lobsters](https://lobste.rs/s/pven1z/illustrated_guide_some_useful_command)) ([HN](https://news.ycombinator.com/item?id=21363121))
+- [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
+- [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
+- [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)
+- [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps)
+- [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
+- [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html) ([HN](https://news.ycombinator.com/item?id=23048054))
+- [Grep for System Admins: Using Grep to Automate Daily Tasks (2020)](https://developer.okta.com/blog/2020/05/06/grep-for-system-admins)
+- [Command line interfaces are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/) ([HN](https://news.ycombinator.com/item?id=15619796)) ([Lobsters](https://lobste.rs/s/sjtxdi/clis_are_reified_uis))
+- [My Favorite CLI Tools (2020)](https://switowski.com/blog/favorite-cli-tools) ([HN](https://news.ycombinator.com/item?id=23603906))
+- [wttr.in](https://github.com/chubin/wttr.in) - Console-oriented weather forecast service. ([HN](https://news.ycombinator.com/item?id=23646953))
+- [Structured text tools](https://github.com/dbohdan/structured-text-tools) - List of text-based file formats and command line tools for manipulating each.
+- [Conventions for Command Line Options (2020)](https://nullprogram.com/blog/2020/08/01/) ([HN](https://news.ycombinator.com/item?id=24020952))
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools (2020)](https://zaiste.net/posts/shell-commands-rust/) ([Lobsters](https://lobste.rs/s/2mxwdm/rewritten_rust_modern_alternatives))
