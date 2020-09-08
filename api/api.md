@@ -94,6 +94,7 @@
 
 ## Links
 
+- [AnyAPI](https://any-api.com) - Documentation and Test Consoles for Over 1400 Public APIs
 - [Transposit](https://www.transposit.com/) - API composition platform.
 - [Postwoman](https://github.com/liyasthomas/postwoman) - API request builder - A free, fast, and beautiful alternative to Postman.
 - [Build an external api with auth using Traefik and Go](https://rogerwelin.github.io/traefik/api/go/auth/2019/08/19/build-external-api-with-trafik-go.html)
