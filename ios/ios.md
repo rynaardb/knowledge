@@ -104,7 +104,7 @@
 - [Comprehensive open-source iOS guides](https://guides.codepath.com/ios)
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) - Free, open source and online course about Reverse Engineering iOS Applications.
-- [Awesome iOS](https://github.com/vsouza/awesome-ios)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects.
 - [xctool](https://github.com/facebook/xctool) - Extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [ios-architecture](https://github.com/tailec/ios-architecture) - Collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
 - [Bugsnag exception reporter for iOS and macOS](https://github.com/bugsnag/bugsnag-cocoa) - Cocoa library automatically detects crashes and fatal signals in your iOS 8.0+, macOS 10.8+ and tvOS applications.
