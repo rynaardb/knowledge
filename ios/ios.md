@@ -71,7 +71,6 @@
 ## Links
 
 - [iOS Dev Directory](https://iosdevdirectory.com/) - Comprehensive list of blogs & sites covering iOS development. ([Code](https://github.com/daveverwer/iOSDevDirectory))
-- [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
 - [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 - [Peek](https://github.com/shaps80/Peek) - Inspect your iOS application at runtime.
@@ -124,8 +123,6 @@
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 - [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))
 - [Who You Gonna Syscall? by Grant Douglas (2019)](https://www.youtube.com/watch?v=qFLJjByneA4)
-- [Every iOS security guide](https://github.com/0xmachos/iOS-Security-Guides)
-- [Behind the scenes of iOS and Mac Security (2019)](https://www.youtube.com/watch?v=3byNNUReyvE)
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - iOS framework to help with accessibility development and testing.
 - [native-run](https://github.com/ionic-team/native-run) - Cross-platform command-line utility for running native binaries on devices and simulators/emulators.
 - [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
@@ -177,8 +174,6 @@
 - [Source Code Walkthrough of Telegram-iOS (2020)](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-1-adee673e2202) ([Part 2](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-2-ssignalkit-afdf35ff60ba))
 - [Tips on how to keep application performance good (2020)](https://www.reddit.com/r/iOSProgramming/comments/gjorxm/how_do_you_guys_keep_your_application_performance/)
 - [UI Testing iOS application with EarlGrey (2020)](https://www.onswiftwings.com/posts/ui-tests-earlgrey/)
-- [Tracing iOS Kernel Functions - Building a Kernel Function Trace Tool for Security Research (2020)](https://www.youtube.com/watch?v=qm_oLQFGRsQ)
-- [Every Apple Platform Security Guide](https://github.com/0xmachos/Apple-Platform-Security-Guides)
 - [VersionIcon](https://github.com/DanielCech/VersionIcon) - Script written in Swift that prepares the iOS app icon overlay with ribbon, build type and version (build) info.
 - [Passkit Generator](https://github.com/alexandercerutti/passkit-generator) - Easiest way to generate custom Apple Wallet passes in Node.js.
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging.
@@ -217,7 +212,6 @@
 - [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started?utm_content=buffer27a4b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/)
 - [A Multithreading Saga (2020)](https://cashapp.github.io/2020-07-07/a-multithreading-saga-part-1) - Three part series discussing recent performance improvements we made in our iOS app.
-- [Apple Security Research Device Program](https://developer.apple.com/programs/security-research-device/) ([HN](https://news.ycombinator.com/item?id=23919175))
 - [RocketSimApp](https://github.com/AvdLee/RocketSimApp) - Enhancing the iOS simulator for productivity.
 - [Introducing CryptoKit (2020)](https://www.raywenderlich.com/10846296-introducing-cryptokit)
 - [SMT Solving on an iPhone (2018)](https://www.cs.utexas.edu/~bornholt/post/z3-iphone.html) ([HN](https://news.ycombinator.com/item?id=24099968))
