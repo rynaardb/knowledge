@@ -86,3 +86,4 @@
 - [DEF CON](https://defcon.org/) - Hacking Conference.
 - [Threat modelling case study: bicycles (2020)](http://calpaterson.com/bicycle-threat-model.html) ([Lobsters](https://lobste.rs/s/v1egoc/threat_modelling_case_study_bicycles))
 - [GTFOBins](https://gtfobins.github.io/) - Curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions. ([Code](https://github.com/GTFOBins/GTFOBins.github.io)) ([Lobsters](https://lobste.rs/s/qtb9da/gtfobins))
+- [MalwareTech](https://www.malwaretech.com) - Digest of malware detected in the wild.
