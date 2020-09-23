@@ -138,3 +138,4 @@
 - [Bearer.sh](https://www.bearer.sh/) - Monitor, track performance, detect anomalies, and fix issues on your critical API usage.
 - [APIs You Won't Hate](https://apisyouwonthate.com/) - Community that cares about API design and development.
 - [Ask HN: Suggestions for books about API design? (2020)](https://news.ycombinator.com/item?id=24383180)
+- [RapidAPI](https://rapidapi.com) - Find and Connect to Thousands of API
