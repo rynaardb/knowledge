@@ -222,3 +222,4 @@
 - [iOS Ref](http://iosref.com/) - One-stop quick reference spot for iOS developers.
 - [Auto Linking on iOS & macOS (2020)](https://milen.me/writings/auto-linking-on-ios-and-macos/)
 - [WtfAutoLayout](https://www.wtfautolayout.com) - Autolayout error explanations.
+- [iOS Releases History](https://willhains.com/iOS-version-history) - iOS version release date history.
