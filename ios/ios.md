@@ -223,3 +223,4 @@
 - [Auto Linking on iOS & macOS (2020)](https://milen.me/writings/auto-linking-on-ios-and-macos/)
 - [WtfAutoLayout](https://www.wtfautolayout.com) - Autolayout error explanations.
 - [iOS Releases History](https://willhains.com/iOS-version-history) - iOS version release date history.
+- [iOS Continuous Deployment Using Travis CI and Fastlane](https://andreaslydemann.com/set-up-cd-for-ios-apps-using-travis-ci-and-fastlane/) - iOS Continuous Deployment Using Travis CI and Fastlane
